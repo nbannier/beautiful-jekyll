@@ -23,7 +23,7 @@ Mais l'éditeur permet également très aisément d'ajouter un lien vers une pag
 
 Il est bon d'ajouter un titre à ce lien, pour des raisons d'accessibilité. Si on veut que le lien s'ouvre dans une nouvelle page, le spécifie dans l'onglet "Cible de ce lien".
 
-![Option du lien](/img/media/Moodle_Lien_EditionLien2.png)
+![Option du lien](/img/media/Moodle_Lien_EditionLien.png)
 
 
 ## Intégration de la vidéo
