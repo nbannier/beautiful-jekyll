@@ -20,7 +20,7 @@ description: Un site entre lettres et numérique avec pas mal de Moodle dedans
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "A propos"
+  About Me: "aboutme.md"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -68,8 +68,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: 
-  facebook: 
+  email:
+  facebook:
   github: nbannier
   twitter: nicolasbannier
 #  reddit: yourname
