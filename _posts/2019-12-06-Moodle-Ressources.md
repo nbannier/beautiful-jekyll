@@ -15,15 +15,15 @@ L'exemple suivant contient une page Moodle avec :
 
 Dans Moodle, il est possible d'**ajouter un lien** à son cours à travers une ressource spécifique, la ressource URL.
 
-![Ressource URL](/images/media/Moodle_URL.png)
+![Ressource URL](/img/media/Moodle_URL.png)
 
 Mais l'éditeur permet également très aisément d'ajouter un lien vers une page interne ou un site externe en cliquant sur **l'icône "Lien"** de la barre d'édition.
 
-![Lien](/images/media/Moodle_BarreEdition_Lien.png)
+![Lien](/img/media/Moodle_BarreEdition_Lien.png)
 
 Il est bon d'ajouter un titre à ce lien, pour des raisons d'accessibilité. Si on veut que le lien s'ouvre dans une nouvelle page, le spécifie dans l'onglet "Cible de ce lien".
 
-![Option du lien](/images/media/Moodle_Lien_EditionLien2.png)
+![Option du lien](/img/media/Moodle_Lien_EditionLien2.png)
 
 
 ## Intégration de la vidéo
@@ -32,7 +32,7 @@ Pour intégrer une vidéo qui est présente dans un autre site, on utilisera un 
 
 La plupart des sites hébergeant des vidéos proposent **un code d'intégration** de la vidéo.
 
-![Code d'intégration d'une vidéo](/images/media/IntegrationVideo.gif)
+![Code d'intégration d'une vidéo](/img/media/IntegrationVideo.gif)
 
 Dans Moodle, il faut coller ce code dans la page dans laquelle vous voulez que cette vidéo apparaisse.
 
@@ -42,7 +42,7 @@ Exemple :
 ```
 **Attention** toutefois, il faut coller ce code dans le code de la page. Pour le faire apparaître, il faut utiliser la barre d'édition et cliquer ici :
 
-![Icône code](/images/media/CodeIntegration.png)
+![Icône code](/img/media/CodeIntegration.png)
 
 
 ## Ergonomie
