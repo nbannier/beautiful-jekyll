@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De
+title: Orchestrer resources et activités dans une page  
 subtitle: Un exemple de page avec un grain de manuel
 image: /img/media/ressource3.png
 tags: [moodle, ressources, manuel, activité, ergonomie]
