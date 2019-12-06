@@ -41,6 +41,8 @@ Exemple :
 ```html
 <iframe src="https://www.youtube.com/embed/Cpa8s9UqzLc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 ```
+
+{: .box-warning}
 **Attention** toutefois, il faut coller ce code dans le code de la page. Pour le faire apparaître, il faut utiliser la barre d'édition et cliquer ici :
 
 ![Icône code](/img/media/CodeIntegration.png)
