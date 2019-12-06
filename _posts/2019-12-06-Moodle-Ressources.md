@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moodle Ressources
-image: ./image/media/vidéo.png
+image: /image/media/vidéo.png
 ---
 
 L'exemple suivant contient une page Moodle avec :
