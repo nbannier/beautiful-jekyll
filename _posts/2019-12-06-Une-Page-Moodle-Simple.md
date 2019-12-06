@@ -3,6 +3,7 @@ layout: post
 title: Une page Moodle simple
 subtitle: Un exemple de page avec une vidéo et des liens externes
 image: /img/media/vidéo.png
+tags: [moodle, ressources, ergonomie, vidéo, lien]
 ---
 
 L'exemple suivant contient une page Moodle avec :
