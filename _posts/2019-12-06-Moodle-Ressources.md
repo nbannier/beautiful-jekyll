@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moodle Ressources
+subtitle: Un exemple de page avec une vidéo et des liens externes
 image: /img/media/vidéo.png
 ---
 
