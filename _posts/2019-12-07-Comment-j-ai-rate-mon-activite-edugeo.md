@@ -14,7 +14,7 @@ Pour mon cours de latin de mardi, j'avais prévu de faire réaliser aux élèves
 
 Je cite ici la présentation d'[Edutèque](https://www.edutheque.fr/utiliser/sciences-humaines-et-sociales/partenaire/ign-edugeo.html "Lien vers la présentation d'Edugéo sur Eduthèque")
 
-{: .box-primary}
+{: .box-success}
 Le service en ligne Édugéo est destiné à apporter aux enseignants et à leurs élèves des données géographiques sur la France métropolitaine et les départements et régions d’outre-mer. Il fournit aussi un outil de cartographie en ligne.
 
 L'outil proposé est très riche, assez facile à prendre en main et il est accompagné d'[un site compagnon](https://edugeo-site.ign.fr/ "Lien vers le site d'Edugéo") bien fait, avec de nombreux exemples d'exploitation pédagogique de l'outil.
@@ -51,7 +51,7 @@ Certes l'activité était un peu compliquée par le fait que l'application ne pe
 
 Etant donné que l'activité était relativement complexe et supposait plusieurs étapes, **je me suis servi d'une ressource Livre dans Moodle pour donner des consignes** aux élèves.
 
-![Les consignes données aux élèves dans un Livre de Moodle](/img/media/consignesLivre.png)
+![Les consignes données aux élèves dans un Livre de Moodle](/img/media/consignesLivre.png "Le Livre Moodle servant à donner des consignes aux élèves")
 
 Il s'agissait pour les élèves :
   1. de retrouver et de traduire les noms de lieux dans le texte
