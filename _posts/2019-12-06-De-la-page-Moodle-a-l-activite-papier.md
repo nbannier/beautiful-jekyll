@@ -8,7 +8,7 @@ tags: [moodle, ressources, manuel, activité, ergonomie]
 
 La page ci-dessous contient à la fois des informations et des consignes mais également un grain extrait du manuel de la classe ; ces différentes ressources débouchent sur une activité de rédaction sur support papier.
 
-![Ressources et exercice](/img/media/ressource3.png =300x)
+![Ressources et exercice](/img/media/ressource3.png) {: width="360px"}
 
 ## Exporter un grain de manuel
 
