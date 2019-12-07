@@ -14,7 +14,7 @@ Pour mon cours de latin de mardi, j'avais prévu de faire réaliser aux élèves
 
 Je cite ici la présentation d'[Edutèque](https://www.edutheque.fr/utiliser/sciences-humaines-et-sociales/partenaire/ign-edugeo.html "Lien vers la présentation d'Edugéo sur Eduthèque")
 
-{: .box-info}
+{: .box-primary}
 Le service en ligne Édugéo est destiné à apporter aux enseignants et à leurs élèves des données géographiques sur la France métropolitaine et les départements et régions d’outre-mer. Il fournit aussi un outil de cartographie en ligne.
 
 L'outil proposé est très riche, assez facile à prendre en main et il est accompagné d'[un site compagnon](https://edugeo-site.ign.fr/ "Lien vers le site d'Edugéo") bien fait, avec de nombreux exemples d'exploitation pédagogique de l'outil.
@@ -23,7 +23,7 @@ L'outil proposé est très riche, assez facile à prendre en main et il est acco
 
 Comme d'[autres services d'Edutèque](https://www.edutheque.fr/actualite/article/des-comptes-classe-pour-vos-eleves-chez-11-partenaires.html "Lien vers la présentation des comptes classe dans Eduthèque"), il permet de fonctionner avec un compte classe : c'est-à-dire :
 
-{: .box-info}
+{: .box-primary}
 de créer un compte « Classe », anonyme, dont les identifiants sont communiqués aux élèves. Ces derniers peuvent ainsi accéder aux ressources des partenaires.
 
 Ce n'est plus seulement l'enseignant qui accède aux ressources pour les utiliser en classe, mais directement les élèves.
