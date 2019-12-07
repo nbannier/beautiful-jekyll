@@ -37,7 +37,7 @@ Conseil : choisir un identifiant et un mot de passe trèèès simple : pas besoi
 
 ## L'activité prévue
 
-Ma 3ème séquence de l'année avec ma classe de latin de 2nde porte sur les voyages en méditerranée, et en particulier sur le voyage de Cicéron de retour de Grèce durant le mois de novembre 50 av. J.-C. Son secrétaire, Tiron, étant tombé malade, il a dû le laisser sur les rivages de la Grèce. Arrivés à Brindes, il lui écrit pour lui raconter son voyage et lui prodiguer des conseils.
+Ma 3ème séquence de l'année avec ma classe de latin de 2nde porte sur les voyages en méditerranée, et en particulier sur le voyage de Cicéron de retour de Grèce durant le mois de novembre 50 av. J.-C [Texte](https://www.loebclassics.com/view/marcus_tullius_cicero-letters_friends/2001/pb_LCL216.35.xml). Son secrétaire, Tiron, étant tombé malade, il a dû le laisser sur les rivages de la Grèce. Arrivés à Brindes, il lui écrit pour lui raconter son voyage et lui prodiguer des conseils.
 
 ![Nepture et les pirates](/img/media/Neptune_et_les_pirates.jpg "Neptune et les pirates, mosaïque romaine")
 
