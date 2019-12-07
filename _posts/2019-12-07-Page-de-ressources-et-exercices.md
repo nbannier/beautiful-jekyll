@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Une page de ressources et d'exercices  
-subtitle: Quelques réflexions sur le choix et l'orchestration des ressources 
+subtitle: Quelques réflexions sur le choix et l'orchestration des ressources
 image: /img/media/ressource2.png
 tags: [moodle, ressources, manuel, activité, test]
 ---
@@ -20,8 +20,8 @@ On y trouve aussi bien :
 
 Les deux premiers points sont abordés dans [cet article](https://nbannier.github.io/2019-12-06-Une-Page-Moodle-Simple/ "lien vers l'article : Une page Moodle simple"), tandis que les liens vers les activtés de test présentes dans le cours, mais cachées et rendues disponibles sont expliqués dans [cet autre article](https://nbannier.github.io/2019-12-06-De-la-page-Moodle-a-l-activite-papier/ "Lien vers l'article : Orchestrer ressources et activités dans une page").
 
-Au sein d'une même page, j'ai composé un ensemble de ressources soient que j'ai produites moi-même, soit vers lesquels je dirige les élèves.
-L'ensemble correspond donc à mes besoins et ne garde que l'essentiel : l'élève possède alors un support de cours à la fois clair, succinct et riche.
+Au sein d'une même page, j'ai composé un ensemble de ressources soient que j'ai produites moi-même, soit vers lesquelles je dirige les élèves.
+L'ensemble correspond donc à mes besoins et ne garde que l'essentiel : l'élève dispose alors d'**un support de cours à la fois clair et riche**.
 
 Par ailleurs, la force du numérique est de permettre **une recomposition du texte que ne permettrait pas le papier** : ici, j'ai ajouté a posteriori des éléments de cours sur les aspects baroques et classiques de *Dom Juan* ; ces éléments avaient été vus en classe et avaient fait l'objet d'une prise de notes, mais ils me semblaient complexes pour les élèves et je voulais qu'ils disposent de l'essentiel  
 
