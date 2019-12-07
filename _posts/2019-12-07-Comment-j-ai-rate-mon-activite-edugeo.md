@@ -37,13 +37,13 @@ Conseil : choisir un identifiant et un mot de passe trèèès simple : pas besoi
 
 ## L'activité prévue
 
-Ma 3ème séquence de l'année avec ma classe de latin de 2nde porte sur les voyages en méditerranée, et en particulier sur le voyage de Cicéron de retour de Grèce durant le mois de novembre 50 av. J.-C [Texte](https://www.loebclassics.com/view/marcus_tullius_cicero-letters_friends/2001/pb_LCL216.35.xml). Son secrétaire, Tiron, étant tombé malade, il a dû le laisser sur les rivages de la Grèce. Arrivés à Brindes, il lui écrit pour lui raconter son voyage et lui prodiguer des conseils.
+Ma 3ème séquence de l'année avec ma classe de latin de 2nde porte sur les voyages en méditerranée, et en particulier sur le voyage de Cicéron de retour de Grèce durant le mois de novembre 50 av. J.-C [Texte](https://www.loebclassics.com/view/marcus_tullius_cicero-letters_friends/2001/pb_LCL216.35.xml). Son secrétaire, Tiron, étant tombé malade, il a dû le laisser sur les rivages de la Grèce. Arrivé à Brindes, il lui écrit pour lui raconter son voyage et lui prodiguer des conseils.
 
 ![Nepture et les pirates](/img/media/Neptune_et_les_pirates.jpg "Neptune et les pirates, mosaïque romaine")
 
 Après une séance sur le calendrier romain (les dates abondent dans la lettre), j'ai imaginé faire **un travail sur les lieux mentionnés dans la lettre**. Les élèves pourraient ainsi **retracer le voyage de Cicéron dans l'espace et dans le temps**.
 
-Pour cela, j'ai pensé leur **faire créer une carte narrative**. J'avais lu un très bon article du site [Cartographies numériques](http://cartonumerique.blogspot.com/2018/11/les-story-maps-un-outil-de-narration.html "Lien vers l'article du site Cartographies numériques") sur les Story maps, et [le tutoriel de l'académie de Nantes](https://www.pedagogie.ac-nantes.fr/histoire-geographie-citoyennete/comment-faire-une-carte-narrative--1228429.kjsp "Lien vers le tutoriel sur les cartes narratives dans Edugéo") m'avait convaincu que'Edugéo était l'application qu'il me fallait.
+Pour cela, j'ai pensé leur **faire créer une carte narrative**. J'avais lu un très bon article du site [Cartographies numériques](http://cartonumerique.blogspot.com/2018/11/les-story-maps-un-outil-de-narration.html "Lien vers l'article du site Cartographies numériques") sur les Story maps, et [le tutoriel de l'académie de Nantes](https://www.pedagogie.ac-nantes.fr/histoire-geographie-citoyennete/comment-faire-une-carte-narrative--1228429.kjsp "Lien vers le tutoriel sur les cartes narratives dans Edugéo") m'avait convaincu qu'Edugéo était l'application qu'il me fallait.
 
 Certes l'activité était un peu compliquée par le fait que l'application ne permet une recherche que sur le territoire français, mais cela n'était pas vraiment un problème. Une des difficulté de la tâche, pour les élèves, était de retrouver ces lieux dont les noms étaient indiqués dans leur nom latin dans le texte de Cicéron.
 
@@ -56,21 +56,21 @@ Etant donné que l'activité était relativement complexe et supposait plusieurs
 Il s'agissait pour les élèves :
   1. de retrouver et de traduire les noms de lieux dans le texte
   2. de placer ces différents lieux sur une carte Edugeo
-  3. de réaliser une carte narrative
+  3. de réaliser une carte narrative.
 
 ## Passage à la pratique
 
 Les deux premières étapes n'ont pas été sans poser des problèmes aux élèves qui ont eu à aiguiser leurs stratégies de recherche d'information et à multiplier leurs sources (dictionnaires latin, recherche sur différents moteurs de recherche, sur Google maps, etc.).
 
-Pas forcément évdent de retrouver qu'"Hydruntem" cache la ville d'Otrante
+Pas forcément évident de retrouver qu' "Hydruntem" cache la ville d'Otrante
 
 ![Recherche de la ville d'Hydrus](/img/media/hydruntem.png)
 
 et certains ont fait s'égarer Cicéron en Afrique ou en Pologne...
 
-Mais finalement, à ce stage, tout fonctionnait comme prévu : les comptes classe permettaient aux élèves de créer les cartes et de placer des repères.
+Mais finalement, à ce stade, tout fonctionnait comme prévu : les comptes classe permettaient aux élèves de créer les cartes et de placer des repères.
 
-Les choses se sont compliquées, quand il a fallu passer à la carte narrative : en effet, pour pouvoir créer une carte narrative, il faut pouvoir enregistrer sa carte dans Edugéo, or cela s'est révéler impossible avec un compte classe. Le temps que je comprenne d'où venait le problème, l'heure était finie ; certains élèves avaient sauvegardé leurs travaux, d'autres pas, et le cours finit en naufrage.
+Les choses se sont compliquées, quand il a fallu passer à la carte narrative : en effet, pour pouvoir créer une carte narrative, il faut pouvoir enregistrer sa carte dans Edugéo, or cela s'est révélé impossible avec un compte classe. Le temps que je comprenne d'où venait le problème, l'heure était finie ; certains élèves avaient sauvegardé leurs travaux, d'autres pas, et le cours finit en naufrage.
 
 ![Sauvegarde impossible](/img/media/edugeoFail.png "Le message d'erreur obtenu par les élèves quand ils essayaient de sauvegarder une carte avec un compte classe")
 
@@ -80,7 +80,7 @@ Voici le résultat attendu :
 
 ## Quel enseignement retiré de cette séance ratée ?
 
-Lorsqu'on utilise un nouvel outil en classe, on a beau l'avoir testé à plusieurs reprise chez soi, **il faut toujours prévoir que les choses ne sont passeront pas exactement comme prévu**.
+Lorsqu'on utilise un nouvel outil en classe, on a beau l'avoir testé à plusieurs reprises chez soi, **il faut toujours prévoir que les choses ne sont passeront pas exactement comme prévu**.
 
 **L'enseignant, face aux problèmes techniques, doit pouvoir s'adapter, mais dans la réalité de classe, c'est loin d'être toujours évident**.
 
