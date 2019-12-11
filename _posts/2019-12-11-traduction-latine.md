@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Une démarche de version latine avec Moodle
+subtitle: Favoriser l'autonomie des élèves et la réactivation des connaissances grâce à un environnement numérique 
 image: /img/media/TexteLatin.png
 tags: [moodle, ressources, évaluation, enseignement, test, latin]
 ---
@@ -27,4 +28,4 @@ Depuis quelques mois, je teste cette démarche en classe pour la version latine.
 
 5. Le texte ainsi dégrossi, le travail de traduction est simplifié. Les élèves travaillent en général par binôme. Il m'arrive de leur demander de partager leur traduction dans un espace partagé (par exemple une base de données), mais ce n'est pas toujours le cas.
 
-Rien de révolutionnaire dans cette démarche ; le passage par le QCM de Moodle permet aux élèves d'avancer à leur rythme et d'avoir un feedback immédiat. 
+Rien de révolutionnaire dans cette démarche ; le passage par le QCM de Moodle permet aux élèves d'avancer à leur rythme et d'avoir un feedback immédiat.
