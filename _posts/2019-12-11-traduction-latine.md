@@ -2,7 +2,7 @@
 layout: post
 title: Une démarche de version latine avec Moodle
 image: /img/media/TexteLatin.png
-tags: [moodle, ressources, ergonomie]
+tags: [moodle, ressources, évaluation, enseignement, test, latin]
 ---
 
 Depuis quelques mois, je teste cette démarche en classe pour la version latine.
@@ -23,6 +23,8 @@ Depuis quelques mois, je teste cette démarche en classe pour la version latine.
 
 ![Extrait du QCM sur le texte latin dans Moodle](/img/media/QCM_Latin.png "Extrait du QCM sur le texte latin dans Moodle") [lien](http://nextcloud.sassolini.fr/index.php/s/a8dkFgAEwFwDXnn)
 
-4. En classe, je distribue le texte aux élèves, je le projette et le lis puis ils se connectent à Moodle et réalise le QCM (seul ou à deux). Grâce aux QCM, ils réactivent leurs connaissances et préparent la traduction. Pour cela, ils prennent des notes sur la version papier du texte.  
+4. En classe, je distribue le texte aux élèves, je le projette et le lis puis ils se connectent à Moodle et réalise le QCM (seul ou à deux). **Grâce aux QCM, ils réactivent leurs connaissances et préparent la traduction**. Pour cela, **ils prennent des notes sur la version papier du texte**.  
 
 5. Le texte ainsi dégrossi, le travail de traduction est simplifié. Les élèves travaillent en général par binôme. Il m'arrive de leur demander de partager leur traduction dans un espace partagé (par exemple une base de données), mais ce n'est pas toujours le cas.
+
+Rien de révolutionnaire dans cette démarche ; le passage par le QCM de Moodle permet aux élèves d'avancer à leur rythme et d'avoir un feedback immédiat. 
