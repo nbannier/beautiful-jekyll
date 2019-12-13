@@ -33,6 +33,11 @@ Je veille à avoir une version papier du texte que je distribue aux élèves ain
 
 4. En classe, je distribue le texte aux élèves, je le projette et le lis puis ils se connectent à Moodle et réalise le QCM (seul ou à deux). **Grâce aux QCM, ils réactivent leurs connaissances et préparent la traduction**. Pour cela, **ils prennent des notes sur la version papier du texte**.  
 
+{: box.note}
+Disposer du QCM est extrêmement commode : il est en effet alors possible de réutiliser le QCM en classe, par exemple
+- en le projetant pour réactiver collectivement les connaissances des élèves
+- en réutilisant la totalité du QCM ou plutôt quelques questions, plus tard dans la séquence (voire dans l'année) pour amener les élèves à réactiver leurs connaissances 
+
 5. Le texte ainsi dégrossi, le travail de traduction est simplifié. Les élèves travaillent en général par binôme. Il m'arrive de leur demander de partager leur traduction dans un espace partagé (par exemple une base de données), mais ce n'est pas toujours le cas.
 
 **Rien de révolutionnaire dans cette démarche ; le passage par le QCM de Moodle permet aux élèves d'avancer à leur rythme et d'avoir un feedback immédiat qui leur facilite l'activité complexe de traduction.**
