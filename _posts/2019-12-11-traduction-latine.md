@@ -14,7 +14,7 @@ Depuis quelques mois, je teste cette démarche en classe pour la version latine.
 
 2. J'édite une **version annotée** (et éventuellement simplifiée) **du texte latin**.
 
-{: .box-success}
+{: .box-note}
 Je veille à avoir une version papier du texte que je distribue aux élèves ainsi qu'une version hthml que je dépose sur Moodle. Cette démarche est facilitée par l'édition du texte en langage Markdown et par l'utilisation de Pandoc.
 
 ![Texte latin annnoté version HTML](/img/media/TexteLatin.png "Texte latin annnoté version HTML")
