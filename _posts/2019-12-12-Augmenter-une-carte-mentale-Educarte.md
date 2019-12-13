@@ -6,6 +6,8 @@ image: /img/media/carteMentaleEducarte.png
 tags: [moodle, ressources, crcn, autonomie, h5p, test, educarte, manuel]
 ---
 
+Article en cours de rédaction
+
 Dans cet article, j'explique comment j'ai organisé une séance de cours qui vise à faire travailler les élèves sur les formes du comique chez Molière en vue de la préparation à une dissertation.
 
 Je leur demande de partir d'une carte mentale proposant 4 extraits vidéos de pièces de Molière sélectionnées dans Educarte et d'enrichir cette carte de leur explication pour la partager avec le reste de la classe.
