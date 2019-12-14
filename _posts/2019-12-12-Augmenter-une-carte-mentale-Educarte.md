@@ -10,7 +10,7 @@ Article en cours de rédaction
 
 Dans cet article, j'explique comment j'ai organisé une séance de cours qui vise à faire travailler les élèves sur les formes du comique chez Molière en vue de la préparation à une dissertation.
 
-Je leur demande de partir d'une carte mentale proposant 4 extraits vidéos de pièces de Molière sélectionnées dans Educarte et d'enrichir cette carte de leur explication pour la partager avec le reste de la classe.
+Je leur demande de partir d'une carte mentale proposant 4 extraits vidéos de pièces de Molière sélectionnés dans Educarte et d'enrichir cette carte de leur explication pour la partager avec le reste de la classe.
 
 ## Revoir ses connaissances sur les formes du comique
 
@@ -18,9 +18,11 @@ Je leur demande de partir d'une carte mentale proposant 4 extraits vidéos de pi
 
 Avant que les élèves se lancent dans ce travail, je leur ai demandé de revoir leurs connaissances sur les formes du comique.
 
-Pour cela, il  commenceront par un pré-test (réalisé avec l'outil de Test de Moodle). Il s'agit ici d'une question cloze](https://docs.moodle.org/3x/fr/Question_cloze_%C3%A0_r%C3%A9ponses_int%C3%A9gr%C3%A9es) composée à partir d'un exerice leur manuel mais sous une forme auto-corrective.
+Pour cela, il  commenceront par un pré-test (réalisé avec l'outil de Test de Moodle). Il s'agit ici d'une [question cloze](https://docs.moodle.org/3x/fr/Question_cloze_%C3%A0_r%C3%A9ponses_int%C3%A9gr%C3%A9es) composée à partir d'un exerice leur manuel mais sous une forme auto-corrective.
 
 ![Vue du pré-test dans Moodle](/img/media/QCM_Latin.png "Vue du pré-test dans Moodle")
+
+[Accéder aux questions du test](https://nextcloud.sassolini.fr/index.php/s/LQQSzo8Ffsi6jyp)
 
 Les questions cloze sont un moyen rapide de créer des questions dans Moodle. Leur utilisation suppose la maîtrise d'une syntaxte un peu opaque dans un premier temps mais qui se révèle à terme très puissante.
 
@@ -30,11 +32,13 @@ Le feed-back immédiat donné par le QCM leur permet de vérifier ce qu'ils save
 
 ### Le cours sur les formes de comique
 
-Le cours sur les formes de comique leur est ensuite accessible (je reviendrai sur ce point plus loin)
+Le cours sur les formes de comique leur est ensuite accessible (je reviendrai sur ce point plus loin) : il s'agit d'un extrait de leur manuel que j'ai embarqué directement dans la page d'après la méthode expliquée dans [cet article](https://nbannier.github.io/2019-12-06-De-la-page-Moodle-a-l-activite-papier/).
 
 ## La carte mentale
 
 ###  Sélectionner les vidéos et créer des extraits Educarte
+
+Tous les lycées 4.0 de la région Grand Est disposent d'un compte Educarte. Directement intégré à l'ENT, l'application permet d'
 
 ### Créer et partager une carte mentale dans Educarte
 
