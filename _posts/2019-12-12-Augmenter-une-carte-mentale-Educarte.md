@@ -34,14 +34,58 @@ Le feed-back immédiat donné par le QCM leur permet de vérifier ce qu'ils save
 
 Le cours sur les formes de comique leur est ensuite accessible (je reviendrai sur ce point plus loin) : il s'agit d'un extrait de leur manuel que j'ai embarqué directement dans la page d'après la méthode expliquée dans [cet article](https://nbannier.github.io/2019-12-06-De-la-page-Moodle-a-l-activite-papier/).
 
-## La carte mentale
+## Augmenter une carte mentale
 
-###  Sélectionner les vidéos et créer des extraits Educarte
+###  Préparer une carte mentale
 
-Tous les lycées 4.0 de la région Grand Est disposent d'un compte Educarte. Directement intégré à l'ENT, l'application permet d'
+#### Sélectionner les vidéos et créer des extraits Educarte
 
-### Créer et partager une carte mentale dans Educarte
+Tous les lycées 4.0 de la région Grand Est disposent d'un compte [Educarte](https://educ.arte.tv/ 'Lien vers le site d'Educarte'). Directement intégré à l'ENT, l'application permet d'accéder à des nombreuses vidéos, mais également à un outil pour :
+- éditer des vidéos de façon à obtenir un extrait
+- créer des cartes mentales à partir d'un ou plusieurs extraits
+- diffuser ces ressources à ses élèves, à ses collègues ou à la communauté Educarte.
 
+##### Trouver des vidéos
+
+[La navigation dans le site](https://www.youtube.com/watch?v=q_Jc0m6n81s&list=PLsKz9d8OwcfcUuY_HPXMRXf_JDIqxPVMH 'tutoriel vidéo sur la navigation dans Educarte') est assez intuitive.
+
+Pour ma séance, je voulais que les élèves puissent disposer d'extraits de pièces différentes : Educarte en possède plusieurs.
+
+![Les captations de pièces de Molière disponibles dans Educarte](/img/media/educarteMolière.png)
+
+##### Obtenir des extraits
+
+Pour obtenir un extrait d'une vidéo, la démarche est simple :
+1. Choisir une vidéo
+2. Cliquer sur "créer un extrait"
+3. Utiliser l'outil pour sélectionner l'extrait qui vous intéresse
+4. Ajouter éventuellement des annotations, des images ou des liens à l'extrait
+5. Définir un titre, une description puis des options de partage
+
+{: .box-note}
+Tout est expliqué dans le [tutoriel suivant](https://www.youtube.com/watch?v=79fyMSMh2yE 'Tutoriel sur la création d'extraits dans Educarte').
+
+La démarche peut être assez longue mais elle est d'une grande efficacité : ainsi les élèves disposent de brefs passages qu'ils peuvent directement visionner en autonomie. De plus, ils sont alors facilement utilisable dans une carte mentale.
+
+Par ailleurs, il est possible de rendre publics les extraits créés de façon à ce que d'autres utilisateurs puissent les réutiliser dans leurs cours.
+
+#### Créer et partager une carte mentale dans Educarte
+
+En effet, Educarte possède un outil de carte mentale. A partir d'un extrait, il est aisé de disposer sur la carte :
+- d'autres vidéos d'Educarte
+- des contenus de Wikipédia
+- des textes, images, des liens externe
+
+et de les relier par des noeuds eux-même facilement éditables.
+
+{: .box-note}
+Davantage d'explications sont disponibles dans [cette vidéo](https://youtu.be/QPz8py9jpck 'Tutoriel sur la création d'une carte mentale dans Educarte').
+
+Ici, j'ai créé une carte mentale dans laquelle j'ai disposé les extraits des pièces de Molière que je souhaitais que les élèves consultent.
+
+![Ebauche de carte mentale composée d'extraits de comédies de Molière](/img/media/carteMentaleMolière.png 'Ebauche de carte mentale composée d'extraits de comédies de Molière')
+
+<iframe width="640" height="400" src="https://educ.arte.tv/embed/mindmap/13753/teacher/870662" frameborder="0"  scrolling="auto" allowfullscreen="true"></iframe>
 
 ## Le guidage
 
