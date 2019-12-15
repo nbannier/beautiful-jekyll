@@ -36,8 +36,38 @@ Je veille à avoir une version papier du texte que je distribue aux élèves ain
 {: box.note}
 Disposer du QCM est extrêmement commode : il est en effet alors possible de réutiliser le QCM en classe, par exemple
 - en le projetant pour réactiver collectivement les connaissances des élèves
-- en réutilisant la totalité du QCM ou plutôt quelques questions, plus tard dans la séquence (voire dans l'année) pour amener les élèves à réactiver leurs connaissances 
+- en réutilisant la totalité du QCM ou plutôt quelques questions, plus tard dans la séquence (voire dans l'année) pour amener les élèves à réactiver leurs connaissances
 
 5. Le texte ainsi dégrossi, le travail de traduction est simplifié. Les élèves travaillent en général par binôme. Il m'arrive de leur demander de partager leur traduction dans un espace partagé (par exemple une base de données), mais ce n'est pas toujours le cas.
 
 **Rien de révolutionnaire dans cette démarche ; le passage par le QCM de Moodle permet aux élèves d'avancer à leur rythme et d'avoir un feedback immédiat qui leur facilite l'activité complexe de traduction.**
+
+## Un exemple : les 30 porcelets de Lavinium et de accelerometer
+
+Dans la page suivante :
+
+![Exemple de page Moodle](/img/media/guidage3.png 'Exemple de page Moodle')
+
+je propose aux élèves **un ensemble de ressources et d'activités autour de la légende des 30 porcelets à Rome et à Lavinium**. Je me situe dans le cadre des nouveaux programmes de latin de 2nde où j'aborde la question de l'origine de la ville sous l'angle du rapport que les Romains entretenaient avec les animaux.
+
+La page est donc répartie en **deux sections** bien distinctes.
+
+1. Dans la première, je donne des **informations** et propose un lien vers **deux fichiers** (cachés et disponibles ; voir [cet article](https://nbannier.github.io/2019-12-07-une-page-avec-des-ressources-variees/) pour des explications) contenant les textes annotés.
+
+- Le texte de Varron [PDF](https://nextcloud.sassolini.fr/index.php/s/n8dZgAcRdjPiZBm) et [HTML](https://nextcloud.sassolini.fr/index.php/s/FGnSZWYGnBWdrMz)
+- Le texte de Cassius Hemina [PDF](https://nextcloud.sassolini.fr/index.php/s/PgjLK4sYrxkQ8RW) et [HTML](https://nextcloud.sassolini.fr/index.php/s/jiGp8de5BmJxjyP)
+
+2. Dans la seconde section, on retrouve les **deux QCM**
+
+- celui sur le [texte de Varron](https://nextcloud.sassolini.fr/index.php/s/tSaedZ5t24nzrsY)
+- celui sur le [texte de Cassius Hemina](https://nextcloud.sassolini.fr/index.php/s/AtYaR5oCFtt29zf)
+
+ainsi qu'**une base de données** simple dans laquelle les élèves peuvent partager leurs travaux afin de **faciliter la mise en commun** (d'autant plus que les élèves n'auront eu à traduire que l'un des deux textes mais qu'ils doivent les connaître tous les deux).
+
+![Capture de la base de données : dépt de la traduction](/img/media/baseDonnéesTraduction.png 'Capture de la base de données : dépôt de la traduction')
+
+![Capture de la base de données : travaux des élèves](/img/media/baseDonnéesTraductionListe.png 'Capture de la base de données : travaux des élèves')
+
+Le guidage aurait permis ici de **différencier le niveau de difficulté** des textes, mais dans cet exemple, les deux textes étaient de niveau de difficulté équivalent.
+
+Il m'arrive cependant de proposer deux versions d'un même texte, en simplifiant un des deux textes afin qu'il soit accessible à des élèves grands débutants.

@@ -2,7 +2,7 @@
 layout: post
 title: Faire augmenter une carte mentale avec Educarte
 subtitle: Exemple de séance en autonomie de création d'une carte mentale
-image: /img/media/carteMentaleEducarte.png
+image: /img/media/carteMentaleMolière.png
 tags: [moodle, ressources, crcn, autonomie, h5p, test, educarte, manuel]
 ---
 
@@ -36,7 +36,15 @@ Le cours sur les formes de comique leur est ensuite accessible (je reviendrai su
 
 ## Augmenter une carte mentale
 
-###  Préparer une carte mentale
+Mes élèves avaient déjà une première expérience d'Educarte ; en effet, lors d'une séance précédente, je leur avais proposé d'utiliser une carte mentale que j'avais créée pour améliorer la [page wikipédia de Caroline Lamarche](https://fr.wikipedia.org/wiki/Caroline_Lamarche 'lien vers la page Wikipédia de Caroline Lamarche').
+
+Dans cette seconde activité, je voulais qu'ils se servent d'une ébauche de carte mentale que je leur aurais préparée pour qu'ils l'augmentent en se servant de leurs connaissances sur les formes de comique.
+
+###  Préparer une ébauche de carte mentale
+
+Dans ma préparation, la première étape a donc consister à créer cette ébauche de carte mentale. Dans Educarte, j'ai donc dû :
+1. Sélectionner des extraits de vidéos
+2. Préparer et partager la carte mentale
 
 #### Sélectionner les vidéos et créer des extraits Educarte
 
@@ -71,6 +79,8 @@ Par ailleurs, il est possible de rendre publics les extraits créés de façon �
 
 #### Créer et partager une carte mentale dans Educarte
 
+##### Créeer une carte mentale à partir des extraits sélectionnés
+
 En effet, Educarte possède un outil de carte mentale. A partir d'un extrait, il est aisé de disposer sur la carte :
 - d'autres vidéos d'Educarte
 - des contenus de Wikipédia
@@ -83,9 +93,18 @@ Davantage d'explications sont disponibles dans [cette vidéo](https://youtu.be/Q
 
 Ici, j'ai créé une carte mentale dans laquelle j'ai disposé les extraits des pièces de Molière que je souhaitais que les élèves consultent.
 
-![Ebauche de carte mentale composée d'extraits de comédies de Molière](/img/media/carteMentaleMolière.png 'Ebauche de carte mentale composée d'extraits de comédies de Molière')
-
 <iframe width="640" height="400" src="https://educ.arte.tv/embed/mindmap/13753/teacher/870662" frameborder="0"  scrolling="auto" allowfullscreen="true"></iframe>
+
+##### Partager la carte mentale avec les élèves
+
+Le partage se fait a priori de façon assez simple. En effet, Educarte vous permet d'importer vos classes dans votre réseau et de partager en un clic avec toute une classe ou un gorupe d'élève une vidéo ou une carte mentale.
+
+Dans les faits, cette étape m'a semblé plus compliquée car dans la liste des élèves n'apparaîssent que ceux qui se sont déjà connectés à Educarte. J'ai donc dû renvoyer plusieurs la carte aux élèves, créant parfois des doublons sur leur compte.
+
+Par compte, les élèves voient facilement dans leur compte que j'ai partagé un contenu avec eux.
+
+![Le message reçu avertissant du partage](.img/media/educarte.png)
+
 
 ## Le guidage
 
