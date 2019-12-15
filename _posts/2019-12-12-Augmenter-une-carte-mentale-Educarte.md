@@ -10,6 +10,7 @@ Dans cet article, j'explique comment j'ai organisé une séance de cours qui vis
 
 Je leur demande d'**enrichir** grâce à leurs explications **une carte mentale** proposant 4 extraits vidéos de pièces de Molière sélectionnés dans Educarte et de la partager avec le reste de la classe.
 
+* Do not remove this line (it will not be displayed)
 {:toc}
 
 ## Réactiver les connaissances sur les formes du comique
@@ -137,7 +138,7 @@ L'ensemble des consignes détaillées sont disponibles aux élèves ; mais avant
 
 En effet, j'ai remarqué qu'une fois l'ordinateur allumé, les élèves peuvent être certes très concentrés dans une activité mais également incapables de ne pas se laisser distraire par ce qui apparaît sur l'écran lorsque je suis en train de donner des consignes. Par ailleurs, leur lecture des consignes à l'écran est papillonante et ils laissent de côté une partie des informations données.
 
-Je détaille ici quelques éléments de guidage supplémantaires.
+Je détaille ici quelques éléments de guidage supplémentaires.
 
 ### Restreindre l'accès à l'activité  
 
