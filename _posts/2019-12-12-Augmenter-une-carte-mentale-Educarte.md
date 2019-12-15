@@ -155,7 +155,7 @@ Puis j'ai paramétré la page de cours en restreignant l'accès à la condition 
 
 Je n'ai pas créé le tutoriel expliquant le fonctionnement des cartes mentales aux élèves, je me suis servi de celui proposer par Educarte et disponible sur Youtube. Par contre, j'ai pris le temps de l'augmenter grâce à H5P.
 
-[H5P](https://moodle.org/plugins/mod_hvp) est un module qui apparaît de plus en plus comme le couteau suisse de Moodle. Je me sers ici de l'activité *Interactive dideo* pour ajouter des signets facilitant l'accès aux différentes parties du tutoriel.
+[H5P](https://moodle.org/plugins/mod_hvp) est un module qui apparaît de plus en plus comme le couteau suisse de Moodle. Je me sers ici de l'activité *Interactive dideo* pour **ajouter des signets facilitant l'accès aux différentes parties du tutoriel**.
 
 ![Le tutoriel vidéo augmenté de signet](/img/media/h5pSignets.png)
 
