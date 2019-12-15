@@ -123,9 +123,9 @@ Ils commencent alors par **regarder l'ensemble des 4 extraits** et **réfléchis
 
 Assez rapidement, ils parviennent à des résultats comme ceux-ci :
 
-![Carte Mentale augmentée : exemple 1](/img/media/carteMenaleLucie.png)
+![Carte Mentale augmentée : exemple 1](/img/media/carteMenale_Lucie.png)
 
-![Carte Mentale augmentée : exemple 2](/img/media/carteMenaleRafaele.png)
+![Carte Mentale augmentée : exemple 2](/img/media/carteMenale_Rafaele.png)
 
 qu'ils peuvent ensuite partagés avec les autres élèves de la classe en quelques clics.
 
