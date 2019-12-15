@@ -10,6 +10,8 @@ Dans cet article, j'explique comment j'ai organisé une séance de cours qui vis
 
 Je leur demande d'**enrichir** grâce à leurs explications **une carte mentale** proposant 4 extraits vidéos de pièces de Molière sélectionnés dans Educarte et de la partager avec le reste de la classe.
 
+{:toc}
+
 ## Réactiver les connaissances sur les formes du comique
 
 Avant que les élèves se lancent dans ce travail d'augmentation de la carte mentale, je leur ai demandé de **revoir leurs connaissances sur les formes du comique**.
@@ -32,6 +34,7 @@ Les **questions cloze** sont un moyen rapide de créer des questions dans Moodle
 
 Le cours sur les formes de comique leur est ensuite accessible (je reviendrai sur ce point plus loin) : il s'agit d'un **extrait de leur manuel que j'ai embarqué directement dans la page Moodle** d'après la méthode expliquée dans [cet article](https://nbannier.github.io/2019-12-06-De-la-page-Moodle-a-l-activite-papier/).
 
+![Le cours sur les formes du comique](/img/media/formesComique.png)
 
 ## Augmenter une carte mentale
 
@@ -47,6 +50,7 @@ Dans ma préparation, la première étape a donc consister à créer cette ébau
 
 1. Sélectionner des extraits de vidéos
 2. Préparer et partager la carte mentale
+
 
 #### Sélectionner les vidéos et créer des extraits Educarte
 
