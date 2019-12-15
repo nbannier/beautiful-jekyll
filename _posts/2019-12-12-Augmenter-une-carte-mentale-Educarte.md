@@ -105,6 +105,23 @@ Par compte, les élèves voient facilement dans leur compte que j'ai partagé un
 
 ![Le message reçu avertissant du partage](.img/media/educarte.png)
 
+### L'activité des élèves
+
+Une fois que les élèves ont réactivé leurs connaissances sur les formes de comique, ils peuvent ensuite réaliser le travail sur la carte mentale.
+
+L'accès le plus simple se fait à partir de leur compte Educarte dans l'ENT (j'ai testé l'ajout d'un lien direct dans Moodle, mais cela ne fonctionnait pas toujours).
+
+Ils commencent alors par regarder l'ensemble des 4 extraits et réfléchissent à la façon dont ils vont pouvoir augmenter cette carte pour mettre en évidence les formes de comiques apparaissant dans les pièces.
+
+Assez rapidement, ils parviennent à des résultats comme ceux-ci :
+
+![Carte Mentale augmentée : exemple 1](/img/media/carteMenaleLucie.png)
+
+![Carte Mentale augmentée : exemple 2](/img/media/carteMenaleRafaele.png)
+
+qu'ils peuvent ensuite partagés avec les autres élèves de la classe en quelques clics.
+
+Les principales difficultés lors de l'activité ont eu lieu lors les élèves devaient sauvegardé leurs travaux car parfois la sauvegarde fonctionnait mal et les élèves perdaient leur travail réalisé.
 
 ## Le guidage
 
