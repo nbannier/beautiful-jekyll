@@ -19,7 +19,7 @@ Après une première approche un peu rude de cette activité dont je ne comprena
 J'avais alors exploité les bases de données dans le cadre d'une lecture collective de *Guirlande terrestre* de René Char.  
 On peut toujours [lire l'article de compte-rendu](https://www.ac-strasbourg.fr/pedagogie/lettres/enseigner-avec-le-numerique/quest-ce-quun-texte-pour-la-classe-aujourdhui/lecture-numerique-de-guirlande-terrestre/) sur le site académique des lettres dans l'académie de Strasbourg.
 
-![L'article sur le site académique](.img//media/Bdd_Char.png)
+![L'article sur le site académique](./img/media/Bdd_Char.png)
 
 J'ai grandement profité de la lecture [des forums de Moodle.org sur les bases de données](https://moodle.org/mod/forum/view.php?id=3505), de la mise à disposition [des pré-réglages](https://archive.moodle.net/mod/data/view.php?id=22) créés par la communauté, et tout particulièrement du travail de [William Lu](https://moodle.org/user/view.php?id=44441&course=5).
 
