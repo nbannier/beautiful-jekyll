@@ -1,4 +1,4 @@
-r---
+---
 layout: post
 title: Faire augmenter une carte mentale avec Educarte
 subtitle: Exemple de séance en autonomie de création d'une carte mentale
