@@ -213,7 +213,7 @@ La base permet de guider et recueillir des analyses linéaires de textes.
 {:.no_toc}
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/wSGxqLYazZWPcLe)
 
-#  Anélyse d'extraits de texte pour traiter une question d'ensemble
+#  Analyse d'extraits de texte pour traiter une question d'ensemble
 
 ## Quel usage ?
 {:.no_toc}
@@ -231,11 +231,6 @@ La base permet de guider l'analyse de différents extraits de texte afin d'aider
 {:.no_toc}
 
 ![Ajout d'une fiche](/img/media/Bdd_AnalyseExtraits_Fiche.png){:width="600px"}
-
-### Vue de la liste des fiches
-{:.no_toc}
-
-![Vue de la liste des fiches](/img/media/Bdd_AnalyseExtraits_Liste.png){:width="600px"}
 
 ## Pré-réglages
 {:.no_toc}
