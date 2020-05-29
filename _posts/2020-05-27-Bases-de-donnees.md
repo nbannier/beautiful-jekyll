@@ -29,27 +29,27 @@ Après ce préambule, passons aux bases de données
 
 #  Journal de lecture
 
-## Quel usage ?
+## Quel usage ? {:.no_toc}
 
 La base sert pour créer un journal de lecture reflexif et collaboratif dans Moodle.
 
-## A quoi ça ressemble ?
+## A quoi ça ressemble ? {:.no_toc}
 
-### Ajout d'une fiche
+### Ajout d'une fiche {:.no_toc}
 
 ![Ajout d'une fiche](/img/media/Bdd_Journal_Add1.png) {: width="360px"}
 
 ![Ajout d'une fiche, détail](/img/media/Bdd_Journal_Add2.png) {: width="360px"}
 
-### Vue d'une fiche
+### Vue d'une fiche {:.no_toc}
 
 ![Vue d'une fiche](/img/media/Bdd_Journal_Fiche.png) {: width="360px"}
 
-### Vue de la liste des fiches
+### Vue de la liste des fiches {:.no_toc}
 
 ![Vue de la liste des fiches](/img/media/Bdd_Journal_Liste.png) {: width="360px"}
 
-## Pré-réglages
+## Pré-réglages {:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/fcwtQwGkPK7WDSs)
 
