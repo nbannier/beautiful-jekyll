@@ -72,17 +72,17 @@ La base sert créer une galerie en lien avec la lecture d'un texte (un poème en
 ### Ajout d'une fiche
 {:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Galerie2_Add.png) {:width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Galerie2_Add.png){:width="600px"}
 
 ### Vue d'une fiche
 {:.no_toc}
 
-![Vue d'une fiche](/img/media/Bdd_Galerie2_Fiche.png) {:width="360px"}
+![Vue d'une fiche](/img/media/Bdd_Galerie2_Fiche.png){:width="600px"}
 
 ### Vue de la liste des fiches
 {:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_Galerie2_Liste.png) {:width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_Galerie2_Liste.png){:width="600px"}
 
 ## Pré-réglages
 {:.no_toc}
@@ -102,17 +102,17 @@ La base sert à inviter les élèves à avoir et à partager une lecture sensibl
 ### Ajout d'une fiche
 {:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Poesie_Add.png) {:width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Poesie_Add.png){:width="600px"}
 
 ### Vue d'une fiche
 {:.no_toc}
 
-![Vue d'une fiche](/img/media/Bdd_Poesie_Fiche.png) {:width="360px"}
+![Vue d'une fiche](/img/media/Bdd_Poesie_Fiche.png){:width="600px"}
 
 ### Vue de la liste des fiches
 {:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_Poesie_Liste.png) {: width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_Poesie_Liste.png){:width="600px"}
 
 ## Pré-réglages
 {:.no_toc}
@@ -122,179 +122,190 @@ La base sert à inviter les élèves à avoir et à partager une lecture sensibl
 #  Brainstorming
 
 ## Quel usage ?
+{:.no_toc}
 
 La base ressemble à un mur Padlet, simplifié. Elle sert à recueillir et afficher des idées recueillies dans la classe.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Padlet_Add.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Padlet_Add.png){:width="600px"}
 
 ### Vue de la liste des fiches
+{:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_Padlet_Liste.png) {: width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_Padlet_Liste.png){:width="600px"}
 
 ## Pré-réglages
+{:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/Xg74H5WFWRKBn3W)
 
 #  Une autre galerie
+{:.no_toc}
 
 ## Quel usage ?
+{:.no_toc}
 
 La base permet de recueillir des images trouvées par les élèves et mises en relation avec des extraits de textes.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Galerie_Add.png) {: width="360px"}
-
-### Vue d'une fiche
-
-![Ajout d'une fiche](/img/media/Bdd_Galerie_Fiche.png) {: width="360px"}
-
-### Vue de la liste des fiches
-
-![Vue de la liste des fiches](/img/media/Bdd_Galerie_Liste.png) {: width="360px"}
-
-## Pré-réglages
-
-[Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/6HwMzz8dZcoxLZG)
-
-#  Une autre galerie
-
-## Quel usage ?
-
-La base permet de recueillir des images trouvées par les élèves et mises en relation avec des extraits de textes.
-
-## A quoi ça ressemble ?
-
-### Ajout d'une fiche
-
-![Ajout d'une fiche](/img/media/Bdd_Galerie_Add.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Galerie_Add.png){:width="600px"}
 
 ### Vue d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Galerie_Fiche.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Galerie_Fiche.png){:width="600px"}
 
 ### Vue de la liste des fiches
+{:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_Galerie_Liste.png) {: width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_Galerie_Liste.png){:width="600px"}
 
 ## Pré-réglages
+{:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/6HwMzz8dZcoxLZG)
 
 #  Recueillir des travaux individuels
 
 ## Quel usage ?
+{:.no_toc}
 
 La base permet de recueillir des travaux autour de différentes thématiques. Ces travaux pourront ensuite être consultés, commentés et évalués par les autres élèves et serviront à réaliser une synthèse.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Recueil_Add.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Recueil_Add.png){:width="600px"}
 
 ## Pré-réglages
+{:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/kBJHC4M9r5GW4mb)
 
 #  Analyse linéaire d'un texte
 
 ## Quel usage ?
+{:.no_toc}
 
 La base permet de guider et recueillir des analyses linéaires de textes.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
-
-![Ajout d'une fiche](/img/media/Bdd_AnalyseLineaire_Add.png) {: width="360px"}
+{:.no_toc}
+![Ajout d'une fiche](/img/media/Bdd_AnalyseLineaire_Add.png){:width="600px"}
 
 ## Pré-réglages
-
+{:.no_toc}
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/wSGxqLYazZWPcLe)
 
-#  Anlyse d'extraits de texte pour traiter une question d'ensemble
+#  Anélyse d'extraits de texte pour traiter une question d'ensemble
 
 ## Quel usage ?
-
+{:.no_toc}
 La base permet de guider l'analyse de différents extraits de texte afin d'aider les élèves à proposer une synthèse.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_AnalyseExtraits_Add.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_AnalyseExtraits_Add.png){:width="600px"}
 
 ### Vue d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_AnalyseExtraits_Fiche.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_AnalyseExtraits_Fiche.png){:width="600px"}
 
 ### Vue de la liste des fiches
+{:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_AnalyseExtraits_Liste.png) {: width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_AnalyseExtraits_Liste.png){:width="600px"}
 
 ## Pré-réglages
+{:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/Qsbk8WGNeK9RkWx)
 
 #  Blog
 
 ## Quel usage ?
+{:.no_toc}
 
 La base permet de créer une sorte de blog.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Blog_Add.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Blog_Add.png){:width="600px"}
 
 ### Vue d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Blog_Fiche.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Blog_Fiche.png){:width="600px"}
 
 ### Vue de la liste des fiches
+{:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_Blog_Liste.png) {: width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_Blog_Liste.png){:width="600px"}
 
 ## Pré-réglages
+{:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/pbzwXXCcD2DR6RM)
 
 #  CRCN
 
 ## Quel usage ?
+{:.no_toc}
 
 La base sert à aider un établissement, voire une académie, à mettre en place le CRCN en amenant les enseignants à réfléchir à la façon dont ils peuvent développer les compétences numériques des élèves.
 
 ## A quoi ça ressemble ?
+{:.no_toc}
 
 ### Ajout d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_CRCN_Add1.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_CRCN_Add1.png){:width="600px"}
 
-![Ajout d'une fiche](/img/media/Bdd_CRCN_Add2.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_CRCN_Add2.png){:width="600px"}
 
-![Ajout d'une fiche](/img/media/Bdd_CRCN_Add3.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_CRCN_Add3.png){:width="600px"}
 
-![Ajout d'une fiche](/img/media/Bdd_CRCN_Add4.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_CRCN_Add4.png){:width="600px"}
 
-![Ajout d'une fiche](/img/media/Bdd_CRCN_Add5.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_CRCN_Add5.png){:width="600px"}
 
 ### Vue d'une fiche
+{:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_CRCN_Fiche.png) {: width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_CRCN_Fiche.png){:width="600px"}
 
 ### Vue de la liste des fiches
+{:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_CRCN_Liste.png) {: width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_CRCN_Liste.png){:width="600px"}
 
 ## Pré-réglages
+{:.no_toc}
 
 [Lien vers les préréglages](https://nextcloud.sassolini.fr/index.php/s/D3A6iayt8iBCw24)
