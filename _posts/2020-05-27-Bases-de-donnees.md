@@ -40,19 +40,19 @@ La base sert pour créer un journal de lecture reflexif et collaboratif dans Moo
 ### Ajout d'une fiche
 {:.no_toc}
 
-![Ajout d'une fiche](/img/media/Bdd_Journal_Add1.png) {:width="360px"}
+![Ajout d'une fiche](/img/media/Bdd_Journal_Add1.png){:width="400px"}
 
-![Ajout d'une fiche, détail](/img/media/Bdd_Journal_Add2.png) {: width="360px"}
+![Ajout d'une fiche, détail](/img/media/Bdd_Journal_Add2.png){:width="400px"}
 
 ### Vue d'une fiche
 {:.no_toc}
 
-![Vue d'une fiche](/img/media/Bdd_Journal_Fiche.png) {:width="360px"}
+![Vue d'une fiche](/img/media/Bdd_Journal_Fiche.png){:width="400px"}
 
 ### Vue de la liste des fiches
 {:.no_toc}
 
-![Vue de la liste des fiches](/img/media/Bdd_Journal_Liste.png) {:width="360px"}
+![Vue de la liste des fiches](/img/media/Bdd_Journal_Liste.png){:width="400px"}
 
 ## Pré-réglages
 {:.no_toc}
