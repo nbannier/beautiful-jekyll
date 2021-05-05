@@ -22,7 +22,7 @@ Je commnence donc par **le vocabulaire** : j'introduis des verbes qui seront prÃ
 
 ![](https://i.imgur.com/9WOnp24.jpg | width=100)
 
-![](https://i.imgur.com/L4cksi1.jpg =250x)
+![](https://i.imgur.com/L4cksi1.jpg | width=100)
 
 On retravaille dans le mÃªme temps le parfait et l'imparfait.
 
