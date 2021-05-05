@@ -2,8 +2,6 @@
 tags: PNF
 ---
 
-# Lire, comprendre, traduire des textes complexes en LCA
-
 Dans cet article, je décris succinctement les étapes d'une séquence de cours de latin de 2nde qui se fonde sur la lecture échelonnée de différentes versions d'un même texte de Pline.
 
 Cette séquence fera l'objet d'un atelier lors du [PNF "Lire des textes complexes"](https://eduscol.education.fr/2750/rendez-vous-des-lettres-2021-lire-et-faire-lire-des-oeuvres-litteraires-complexes), le 10 mai 2021. 
