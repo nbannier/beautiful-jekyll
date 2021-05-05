@@ -26,11 +26,11 @@ Je commnence donc par **le vocabulaire** : j'introduis des verbes qui seront pr�
 
 On retravaille dans le même temps le parfait et l'imparfait.
 
-![](https://i.imgur.com/ENcDazo.jpg =250x)
+![](https://i.imgur.com/ENcDazo.jpg){:height="50%" width="50%"}
 
 Puis **les élèves imaginent un récit** à partir du vocabulaire étudié.
 
-![](https://i.imgur.com/0JnQOE1.jpg =250x)
+![](https://i.imgur.com/0JnQOE1.jpg){:height="50%" width="50%"}
 
 Comme on est à distance, l'utilisation du **wiki** de Moodle facilite 
 - l'écriture, 
@@ -38,7 +38,7 @@ Comme on est à distance, l'utilisation du **wiki** de Moodle facilite
 - la réécriture par les élèves
 - la réécriture par l'enseigant
 
-![](https://i.imgur.com/uHEQ07p.jpg =250x)
+![](https://i.imgur.com/uHEQ07p.jpg){:height="50%" width="50%"}
 
 Cet exercice n'a pas pour objectif de déboucher sur un texte latin sans faute, mais il s'agit davantage 
 - de **réinvestir le vocabulaire et les formes étudiés** 
@@ -55,7 +55,7 @@ Le texte de Pline est très largement simplifié.
 
 Le but est d'avoir une lecture plaisir du texte pour les élèves qui peuvent lire le texte de façon autonome.
 
-![](https://i.imgur.com/Sy2uxHS.jpg =250x)
+![](https://i.imgur.com/Sy2uxHS.jpg){:height="50%" width="50%"}
 
 Des questions de compréhension guide la lecture et me permettent de verifier leur lecture du texte.
 
@@ -66,13 +66,13 @@ Pour cette séance on exploite différentes ressources pour un travail autonomes
 
 - BRNE 
 
-![](https://i.imgur.com/ZcKSlgi.jpg =250x)
+![](https://i.imgur.com/ZcKSlgi.jpg){:height="50%" width="50%"}
 
 
 - cours 
 - exercices specifiques
 
-![](https://i.imgur.com/KQ3nHiP.jpg =250x)
+![](https://i.imgur.com/KQ3nHiP.jpg){:height="50%" width="50%"}
 
 Encore une fois, l'objet est de simplifier au maximum la lecture du texte par les élèves en enseignant par avance ce qui pourrait la compliquer. 
 
@@ -84,22 +84,22 @@ Différents exercices permettent aux élèves de
 - revoir les **les déclinaisons** 
 - et d'apporter de **nouveaux mots** latins qu'ils rencontreront dans le texte à lire. 
 
-![](https://i.imgur.com/IQVcJHR.jpg =250x)
+![](https://i.imgur.com/IQVcJHR.jpg){:height="50%" width="50%"}
 
-![](https://i.imgur.com/41kJo4w.jpg =250x)
+![](https://i.imgur.com/41kJo4w.jpg){:height="50%" width="50%"}
 
-![](https://i.imgur.com/LZ2hfLg.jpg =250x)
+![](https://i.imgur.com/LZ2hfLg.jpg){:height="50%" width="50%"}
 
-![](https://i.imgur.com/970kbd4.jpg =250x)
+![](https://i.imgur.com/970kbd4.jpg){:height="50%" width="50%"}
 
 
 On revient sur les **récits écrits précédemment** par les élèves, on en **relit** certains et les élèves les**réécrivent avec de nouvelles contraintes** : ajouter des mots nouvellement étudiés.
 
 
-![](https://i.imgur.com/H19x7wd.jpg =250x)
+![](https://i.imgur.com/H19x7wd.jpg){:height="50%" width="50%"}
 
 
-![](https://i.imgur.com/6SoV63d.jpg =250x)
+![](https://i.imgur.com/6SoV63d.jpg){:height="50%" width="50%"}
 
 
 
@@ -111,7 +111,7 @@ Dans le récit simplifié n.1 de nombreux points sont restés en suspens et peu 
 
 Le texte dans sa version 2 est cette fois **plus développé** même s'il **demeure simplifié**.
 
-![](https://i.imgur.com/WbEtlHP.jpg =250x)
+![](https://i.imgur.com/WbEtlHP.jpg){:height="50%" width="50%"}
 
 
 L'objectif principal est que les élèves soient capables de le **traduire de façon autonome** (seul ou à deux). 
@@ -120,35 +120,35 @@ Plus précisément la séance se déroule ainsi :
 
 1. On revoit du **vocabulaire** et de la **morphologie** 
 
-![](https://i.imgur.com/LPJKbDw.jpg =250x)
+![](https://i.imgur.com/LPJKbDw.jpg){:height="50%" width="50%"}
 
 
 2. La traduction autonome est **étayée par des exercices** d'analyse et de compréhension qui facilitent le travail.
 
-![](https://i.imgur.com/3WndD5Y.jpg =250x)
+![](https://i.imgur.com/3WndD5Y.jpg){:height="50%" width="50%"}
 
 
 3. Le texte (long) est ainsi découpé en étapes où on alterne exercices d'analyse sous forme de QCM et phases de **traduction.**
 
-![](https://i.imgur.com/Uft5nFs.jpg =250x)
+![](https://i.imgur.com/Uft5nFs.jpg){:height="50%" width="50%"}
 
-![](https://i.imgur.com/O7Oh9DG.jpg =250x)
+![](https://i.imgur.com/O7Oh9DG.jpg){:height="50%" width="50%"}
 
 
 ## Séance 6 : Mise en perspective culturelle
 
 Dans cette séance, j'approfondis plusieurs questions sur **l'au-delà** en mobilisant différentes ressources : videos, images, textes...
 
-![](https://i.imgur.com/c8ORSHc.jpg =250x)
+![](https://i.imgur.com/c8ORSHc.jpg){:height="50%" width="50%"}
 
-![](https://i.imgur.com/KKGlFKP.jpg =250x)
+![](https://i.imgur.com/KKGlFKP.jpg){:height="50%" width="50%"}
 
-![](https://i.imgur.com/BQg7IQD.jpg =250x)
+![](https://i.imgur.com/BQg7IQD.jpg){:height="50%" width="50%"}
 
 
 On travaille sur le texte d'Ovide sur les Lemuria, en traduction, occasion de revenir sur l'histoire de Romulus et Remus étudiée plus tôt dans l'année. 
 
-![](https://i.imgur.com/4Aw3O1s.jpg =250x)
+![](https://i.imgur.com/4Aw3O1s.jpg){:height="50%" width="50%"}
 
 
 ## Séance 7 : Lecture et traduction du texte de Pline
@@ -158,12 +158,12 @@ Dans cette séance, **l'objectif est de lire et commenter le texte écrit par Pl
 
 On commence par réviser la traduction simplifiée 2
 
-![](https://i.imgur.com/hPFTon2.jpg =250x)
+![](https://i.imgur.com/hPFTon2.jpg){:height="50%" width="50%"}
 
 
 Puis on lit le texte de Pline non simplifié (avec mon aide).
 
-![](https://i.imgur.com/RVqYLkM.jpg =250x)
+![](https://i.imgur.com/RVqYLkM.jpg){:height="50%" width="50%"}
 
 Ici on pourrait sans doute prévoir des **améliorations** pour 
 - rendre le travail **plus autonome**
