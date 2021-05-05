@@ -20,7 +20,7 @@ Cette séance a pour objectif d'**enseigner des éléments de vocabulaire et de 
 
 Je commnence donc par **le vocabulaire** : j'introduis des verbes qui seront présents dans le texte qu'on va lire.
 
-![](https://i.imgur.com/9WOnp24.jpg  | width=100)
+![](https://i.imgur.com/9WOnp24.jpg | width=100)
 
 ![](https://i.imgur.com/L4cksi1.jpg =250x)
 
